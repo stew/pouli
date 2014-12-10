@@ -3,6 +3,9 @@
 An Object Pool. A shared repository of reusable, "expensive" objects
 which can be borrowed.
 
+Currently version 0.1 because it is awesome and battle-tested, and
+ready for massive worry free deployments.
+
 # Creating a pool:
 
 In order to create a pool, we need to provide an instance of the
